@@ -2,8 +2,11 @@
 
 **PDF工具** 是一款功能全面的PDF文档处理桌面应用程序，基于Python的PyQt5框架开发。该工具提供了专业的PDF合并与拆分功能，具备直观的用户界面和高效的批处理能力，特别适用于日常办公、文档管理和批量PDF处理等场景。
 
-![PDF工具截图](https://via.placeholder.com/800x450?text=PDF+Tools+Screenshot)
+![image-20250701095628547](https://github.com/BrepMaster/PDF-Tools/raw/main/1.png)
 
+📦 Download (Windows EXE version):
+链接: https://pan.baidu.com/s/1Zlv-a_pnKLEtgZ8jZM9IzA?pwd=ab8a
+提取码: ab8a
 
 
 ## 使用指南 / User Guide
