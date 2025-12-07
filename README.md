@@ -5,8 +5,9 @@
 ![image-20250701095628547](https://github.com/BrepMaster/PDF-Tools/raw/main/1.png)
 
 📦 Download (Windows EXE version):
-链接: https://pan.baidu.com/s/1Zlv-a_pnKLEtgZ8jZM9IzA?pwd=ab8a
-提取码: ab8a
+通过网盘分享的文件：PDF_Tools.exe
+
+链接: https://pan.baidu.com/s/14UBPgyFnj9jVtAMCigq46Q?pwd=hard 提取码: hard
 
 
 ## 使用指南 / User Guide
